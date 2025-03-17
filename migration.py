@@ -2,6 +2,9 @@
 EJECUTAR EN TERMINAL
 python -m venv mi_entorno
 mi_entorno\Scripts\activate
+
+instalar
+pip install pyodbc psycopg2
 """
 
 import pyodbc
