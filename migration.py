@@ -1,3 +1,9 @@
+"""
+EJECUTAR EN TERMINAL
+python -m venv mi_entorno
+mi_entorno\Scripts\activate
+"""
+
 import pyodbc
 import psycopg2
 
